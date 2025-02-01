@@ -1,2 +1,6 @@
-# Learning Management System
- THis File will helps to built a fully fucntional LMS Portal
+```Plaintext
+
+                                                                       __                 
+|    _  _   _  _  .  _   _    |\/|  _   _   _   _   _  _   _  _  |_   (_      _ |_  _  _  
+|__ (- (_| |  | ) | | ) (_)   |  | (_| | ) (_| (_) (- ||| (- | ) |_   __) \/ _) |_ (- ||| 
+                        _/                     _/                         /               
